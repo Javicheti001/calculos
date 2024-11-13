@@ -1,0 +1,4 @@
+echo "streamlit
+pandas
+openpyxl
+numpy" > requirements.txt
